@@ -1,0 +1,21 @@
+.taskCardTitle {
+  /* width: 250px;
+  padding: 10px 15px;
+  margin: 10px 1%;
+  background: #000000;
+  border-radius: 5px; */
+  margin-bottom: 20px;
+}
+
+.taskCardTitle h3 {
+  cursor: pointer;
+}
+.taskCardTitle input {
+  width: 100%;
+  height: 30px;
+  background: #403f3f;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  padding: 0 8px;
+}
